@@ -1,0 +1,12 @@
+.layoutWrapper {
+    background-color: #ffffff!important;
+    flex: 1;
+    height: 100%;
+    .contentWrapper {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+}
+
+  
